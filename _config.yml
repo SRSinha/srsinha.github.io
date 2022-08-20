@@ -82,7 +82,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Developer Intern
         caption: 23'May 2022 - Present
-        link: nyu.edu
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -95,6 +94,7 @@ content:
         title: New York University
         caption: 2021 - 2022
         sub_title: MS Computer Science
+        link: nyu.edu
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
