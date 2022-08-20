@@ -99,6 +99,16 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at NYU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I grabbed the opportunities to work as a Research Assistant, as a CTO-developer as well as a Grader and a Tutor.
+   content:
+      - layout: left
+        title: MNIT JAIPUR
+        caption: 2012 - 2016
+        sub_title: BTech Computer Science
+        # link: nyu.edu
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at NYU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I grabbed the opportunities to work as a Research Assistant, as a CTO-developer as well as a Grader and a Tutor.       
 
 
   - title: A Little More About Me
