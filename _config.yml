@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profileSRS.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Shiv and I am a 2nd year Master's student at NYU-Courant. I have experience working as a SDE at <mark>Adobe</mark> and SDE intern at <mark>Tiktok</mark>.
 
@@ -154,15 +154,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at MNIT I developed my passion for algorithms and coding. While exploring the vast field of Computer Science I was also actively involved in various campus activities and responsibilities. I lead the Technical Society there in my 3rd year of undergrad and was also part of the college dance group in my early years of college.
 
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests software engineering some of my other interests and hobbies are:
-      - Sketching
-      - Trekking
-      - Dancing
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -182,6 +173,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests software engineering some of my other interests and hobbies are:
+      - Sketching
+      - Trekking
+      - Dancing
 
 # Footer
 footer_show_references: true
