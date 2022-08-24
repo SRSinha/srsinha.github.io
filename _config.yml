@@ -88,7 +88,7 @@ content:
             Owned the design and development of history management feature in the Tiktok developers portal; in Go.
             Extra project; developed an optimal algorithm for scheduling meeting amongst people around globe; in Python.
       
-    - layout: left
+      - layout: left
         title: New York University
         link: nyu.com
         # link_text: boringcompany.com
