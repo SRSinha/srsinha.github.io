@@ -44,7 +44,7 @@ linkedin_username: shiv-ratan-sinha
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 gtag: "G-65GVZMJ6MW"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-65GVZMJ6MW"
 
 # About Section
 # about_title: About Me
