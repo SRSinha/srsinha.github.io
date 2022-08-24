@@ -85,8 +85,8 @@ content:
         quote: >
           Developers Portal Tiktok
         description: | # this will include new lines to allow paragraphs
-            Owned the design and development of history management feature in the Tiktok developers portal; in Go.
-            Extra project; developed an optimal algorithm for scheduling meeting amongst people around globe; in Python.
+            - Owned the design and development of history management feature in the Tiktok developers portal; in Go.
+            - Extra project; developed an optimal algorithm for scheduling meeting amongst people around globe; in Python.
       
       - layout: left
         title: New York University
@@ -95,7 +95,7 @@ content:
         sub_title: Research Assistant
         caption: May 2021 - June 2022
         quote: >
-          Containerizing web scrapping
+          Containerizing web-scrapping
         description: | # this will include new lines to allow paragraphs
             Parallelized Python data crawling using multiple containers, highly appreciated by Professor Raveesh Mayya, NYU-Stern, for doubling scrapping rate with lesser resource utilisation using containers.
             Data extraction and analysis of large online secondary market using Python multiprocessing and RapidMiner.
