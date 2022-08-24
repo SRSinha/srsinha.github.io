@@ -88,67 +88,67 @@ content:
             Owned the design and development of history management feature in the Tiktok developers portal; in Go.
             Extra project; developed an optimal algorithm for scheduling meeting amongst people around globe; in Python.
       
-    - layout: left
-        title: New York University
-        link: nyu.com
-        # link_text: boringcompany.com
-        sub_title: Research Assistant
-        caption: May 2021 - June 2022
-        quote: >
-          Containerizing web-scrapping
-        description: | # this will include new lines to allow paragraphs
-            Parallelized Python data crawling using multiple containers; highly appreciated by Professor Raveesh Mayya, NYU-Stern, for doubling scrapping rate with lesser resource utilisation using containers.
-            Data extraction and analysis of large online secondary market using Python multiprocessing and RapidMiner.
-            Ported the setup to GCP for efficient management and processing.
+    # - layout: left
+    #     title: New York University
+    #     link: nyu.com
+    #     # link_text: boringcompany.com
+    #     sub_title: Research Assistant
+    #     caption: May 2021 - June 2022
+    #     quote: >
+    #       Containerizing web-scrapping
+    #     description: | # this will include new lines to allow paragraphs
+    #         Parallelized Python data crawling using multiple containers; highly appreciated by Professor Raveesh Mayya, NYU-Stern, for doubling scrapping rate with lesser resource utilisation using containers.
+    #         Data extraction and analysis of large online secondary market using Python multiprocessing and RapidMiner.
+    #         Ported the setup to GCP for efficient management and processing.
 
 
-      - layout: left
-        title: Adobe
-        link: adobe.com
-        # link_text: boringcompany.com
-        sub_title: Computer Scientist
-        caption: 01'Jan 2021 - 01'Jan 2022
-        quote: >
-          Also explored management, showed leadership and customer support.
-        description: | # this will include new lines to allow paragraphs
-            Owned entire development of Integrations of Adobe Experience Manager and Target/Analytics, using Java; also managed work of 3 fellow developers.
-            Timely resolved high level of customer issues by managing Kubernetes clusters for AEM as cloudservice.
+    #   - layout: left
+    #     title: Adobe
+    #     link: adobe.com
+    #     # link_text: boringcompany.com
+    #     sub_title: Computer Scientist
+    #     caption: 01'Jan 2021 - 01'Jan 2022
+    #     quote: >
+    #       Also explored management, showed leadership and customer support.
+    #     description: | # this will include new lines to allow paragraphs
+    #         Owned entire development of Integrations of Adobe Experience Manager and Target/Analytics, using Java; also managed work of 3 fellow developers.
+    #         Timely resolved high level of customer issues by managing Kubernetes clusters for AEM as cloudservice.
 
-      - layout: left
-        title: Adobe
-        link: adobe.com
-        # link_text: boringcompany.com
-        sub_title: Senior Member of Technical Staff
-        caption: 01'Jan 2021 - 01'Jan 2022
-        quote: >
-          AEM multi-channel and new project ownership
-        description: | # this will include new lines to allow paragraphs
-            Led and accomplished smooth transfer of ownership of ’Integrations’ (10 code repositories). Within 5 months of ownership, the product was successfully made cloud-native, leading to the on-boarding of 10+ new customers.
-            Contributed to the development of multi-channel interactive forms in AEM Forms by developing the web and print-based channel using Java and JavaScript.
+    #   - layout: left
+    #     title: Adobe
+    #     link: adobe.com
+    #     # link_text: boringcompany.com
+    #     sub_title: Senior Member of Technical Staff
+    #     caption: 01'Jan 2021 - 01'Jan 2022
+    #     quote: >
+    #       AEM multi-channel and new project ownership
+    #     description: | # this will include new lines to allow paragraphs
+    #         Led and accomplished smooth transfer of ownership of ’Integrations’ (10 code repositories). Within 5 months of ownership, the product was successfully made cloud-native, leading to the on-boarding of 10+ new customers.
+    #         Contributed to the development of multi-channel interactive forms in AEM Forms by developing the web and print-based channel using Java and JavaScript.
 
-      - layout: left
-        title: Adobe
-        link: adobe.com
-        # link_text: boringcompany.com
-        sub_title: Member of Technical Staff
-        caption: 01'Jan 2021 - 01'Jan 2022
-        quote: >
-          Rest APIs and CCR UI
-        description: | # this will include new lines to allow paragraphs
-            Oversaw and managed development of ’Agent UI’ product using AngularJS; improved performance by 15% (for client Deutsche Bank).
-            Developed RESTful APIs, UI in AngularJS and hosted the NLP based contextualization engine-Manthan on a multi-cloud container platform-Ethos; product was showcased in Adobe Tech Summit 2017.
+    #   - layout: left
+    #     title: Adobe
+    #     link: adobe.com
+    #     # link_text: boringcompany.com
+    #     sub_title: Member of Technical Staff
+    #     caption: 01'Jan 2021 - 01'Jan 2022
+    #     quote: >
+    #       Rest APIs and CCR UI
+    #     description: | # this will include new lines to allow paragraphs
+    #         Oversaw and managed development of ’Agent UI’ product using AngularJS; improved performance by 15% (for client Deutsche Bank).
+    #         Developed RESTful APIs, UI in AngularJS and hosted the NLP based contextualization engine-Manthan on a multi-cloud container platform-Ethos; product was showcased in Adobe Tech Summit 2017.
 
-      - layout: left
-        title: Intap Labs Pvt Ltd, India
-        link: adobe.com
-        # link_text: boringcompany.com
-        sub_title: Technical Intern
-        caption: May 2015 - July 2015
-        quote: >
-          UI/UX and NLP based
-        description: | # this will include new lines to allow paragraphs
-            Redesigned UI of Hello English app’s home-page and user-profile page using Proto.io. Acknowledged directly by the CEO for the new Material Design based UI.
-            Contributed to NLP-based text readability feature: send news articles to users based on their reading abilities.
+    #   - layout: left
+    #     title: Intap Labs Pvt Ltd, India
+    #     link: adobe.com
+    #     # link_text: boringcompany.com
+    #     sub_title: Technical Intern
+    #     caption: May 2015 - July 2015
+    #     quote: >
+    #       UI/UX and NLP based
+    #     description: | # this will include new lines to allow paragraphs
+    #         Redesigned UI of Hello English app’s home-page and user-profile page using Proto.io. Acknowledged directly by the CEO for the new Material Design based UI.
+    #         Contributed to NLP-based text readability feature: send news articles to users based on their reading abilities.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
