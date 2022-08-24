@@ -85,8 +85,8 @@ content:
         quote: >
           Developers Portal Tiktok
         description: | # this will include new lines to allow paragraphs
-            - Owned the design and development of history management feature in the Tiktok developers portal; in Go.
-            - Extra project; developed an optimal algorithm for scheduling meeting amongst people around globe; in Python.
+            Owned the design and development of history management feature in the Tiktok developers portal; in Go.
+            Extra project; developed an optimal algorithm for scheduling meeting amongst people around globe; in Python.
       
     - layout: left
         title: New York University
