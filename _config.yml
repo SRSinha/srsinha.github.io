@@ -222,6 +222,38 @@ content:
         description: | # this will include new lines to allow paragraphs
            Through this project, we investigated the predictive correlation and causation between (1) Average Daily Traffic of an area and (2) Number of reports of potholes and road damages in the same area.
 
+      - layout: top-middle
+        title: CyberTongue
+        link: 
+        link_text: MNIT, 2015
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Quora was popular at that time, so something inspired by that?
+        description: | # this will include new lines to allow paragraphs
+           It was a team of 2 and we developed a Q&A portal using PHP and MySQL. We were inspired by the success of Quora and got inspired to create something similar to that; received AA in the project.
+
+      - layout: top-middle
+        title: DDoS Detection-Mitigation
+        link: 
+        link_text: MNIT, 2015-16
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          The then existing mitigation techniques failed to operate when the server is under massive DDoS attack.
+        description: | # this will include new lines to allow paragraphs
+           The proposed technique ensures the availability of enough resources during massive DDoS attacks for the existing DDoS mitigation techniques. This is done by blocking the attack traffic for certain time and making the resources available to the DDoS mitigation tools.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
