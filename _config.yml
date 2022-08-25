@@ -137,7 +137,7 @@ content:
     content:
       - layout: left
         title: New York University
-        caption: 2021 - 2022
+        caption: 2021 - 2022, GPA 3.96
         sub_title: MS Computer Science
         link: nyu.edu
         # quote: >
@@ -147,9 +147,9 @@ content:
 
       - layout: left
         title: Malaviya National Institute of Technology Jaipur 
-        caption: 2012 - 2016
+        caption: 2012 - 2016, GPA 8.52
         sub_title: B.Tech Computer Science
-        # link: nyu.edu
+        link: mnit.ac.in
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
