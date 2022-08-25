@@ -160,7 +160,7 @@ content:
     content:
       - layout: top-middle
         title: Multi-modal multi-environment performance comparison on GCP
-        # link: github.com/sproogen
+        link:
         link_text: NYU, Spring 2022
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -176,7 +176,7 @@ content:
 
       - layout: top-middle
         title: Spotify Playlist Song Recommendation System using Spark
-        # link: github.com/sproogen
+        link:
         link_text: NYU, Spring 2022
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -192,7 +192,7 @@ content:
 
       - layout: top-middle
         title: Movie Genre Prediction from Posters
-        # link: github.com/sproogen
+        link: 
         link_text: NYU, Fall 2021
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -208,7 +208,7 @@ content:
 
       - layout: top-middle
         title: Predicting Road Repair Timelines Using Traffic Data
-        # link: github.com/sproogen
+        link: 
         link_text: NYU, Fall 2021
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
