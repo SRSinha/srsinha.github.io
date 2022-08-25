@@ -159,20 +159,68 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        title: Multi-modal multi-environment performance comparison on GCP
+        # link: github.com/sproogen
+        link_text: NYU, Spring 2022
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Where do I deploy my particular ML application?
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          In this project we tried to compare three environments i.e., the bare Virtual Machine, Docker running inside the Virtual Machine, and Singularity running inside the Virtual Machine on two different workloads i.e., an MNIST digit classifier using Convolutional Neural Network and a Sentiment Analyzer using Recurrent Neural Network. We used the same underlying hardware and ran all the workloads using a GPU-enabled Virtual Machine inside the Google Cloud Platform to better compare the metrics and understand the implication of the change of metrics in different environments on the performance of the application.
+
+      - layout: top-middle
+        title: Spotify Playlist Song Recommendation System using Spark
+        # link: github.com/sproogen
+        link_text: NYU, Spring 2022
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Song recommendations that are fresh to the ears and fit your listening habits.
+        description: | # this will include new lines to allow paragraphs
+          It is important for a recommendation system to minimize the user’s effort for providing feedback and to maximize the user’s satisfaction by playing the appropriate song at the right time. In this project, we leveraged the existing user’s song organization data alongwith the track’s metadata to analyze and recommend new tracks to the listener.
+
+      - layout: top-middle
+        title: Movie Genre Prediction from Posters
+        # link: github.com/sproogen
+        link_text: NYU, Fall 2021
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A good movie poster can convey a film's theme and genre to a wider audience,
+        description: | # this will include new lines to allow paragraphs
+          Here we examined not only the visual aspects of the poster but also analyzed the textual information, to see if it can reinforce the model. In combination with textual learning, ResNet50 was able to predict movie poster genres fairly accurately. This suggests that the visual elements included in movie posters of a given genre are relatively consistent.
+
+      - layout: top-middle
+        title: Predicting Road Repair Timelines Using Traffic Data
+        # link: github.com/sproogen
+        link_text: NYU, Fall 2021
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Data Science can play a big role in getting insights from uncharted territories.
+        description: | # this will include new lines to allow paragraphs
+           Through this project, we investigated the predictive correlation and causation between (1) Average Daily Traffic of an area and (2) Number of reports of potholes and road damages in the same area.
 
   - title: A Little More About Me
     layout: text
