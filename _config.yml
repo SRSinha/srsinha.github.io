@@ -31,10 +31,10 @@ linkedin_username: shiv-ratan-sinha
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: Designs
+  icon: fas fa-box-archive
+  url: https://drive.google.com/drive/folders/0B-ROXwFsebJbQUpfRE02bWZWSFE
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
