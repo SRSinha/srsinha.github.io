@@ -52,7 +52,7 @@ about_profile_image: images/profileSRS.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Shiv and I am a 2nd year Master's student at NYU-Courant. I have experience working as a SDE at <mark>Adobe</mark> and SDE intern at <mark>Tiktok</mark>.
 
-  I also enjoy: <mark>Designing<https://www.markdownguide.org></mark> and <mark>Sketching</mark>
+  I also enjoy: <mark>  Designing</mark> and <mark>Sketching</mark>
 
 content:  
   - title: Experience # Title for the section
